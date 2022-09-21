@@ -1,3 +1,3 @@
 # DynamicVs.Exhaustive
 A C++ program that tests the efficiency of Dynamic Vs. Exhaustive algorithms
-Contributers: Evan Holscher 
+\n Contributers: Evan Holscher 
